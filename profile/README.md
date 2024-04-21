@@ -4,7 +4,7 @@
 #### 👨‍👩‍👧‍👦 Members
 |<img src="https://avatars.githubusercontent.com/u/83583757?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/66291768?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/66259784?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/139459645?v=4" width="128" />| <img src="https://avatars.githubusercontent.com/u/66260209?v=4" width="128" />| 
 |:---------:|:---------:|:---------:|:---------:|:---------:|
-|[강유리](https://github.com/kangyuri1114)|[김인서](https://github.com/xXDOPERXx)|[박상욱](https://github.com/SangWookie)|[오영록](https://github.com/youngroky)|[정찬민](https://github.com/chanmin-00)|
+|[강유리](https://github.com/kangyuri1114)|[김인서](https://github.com/xXDOPERXx)|[박상욱](https://github.com/SangWookie)|[오영록](https://github.com/youngroky)|[정찬민](https://github.com/chanmin-00)| [조성현](https://github.com/seonghyeoncho)
 
 #### 🚩 스터디 규칙 
 ➡️ 월요일 12시 10분 정보관 <br>
