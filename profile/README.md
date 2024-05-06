@@ -29,7 +29,7 @@
 |6주차| 2024.04.22| 이분 탐색 | [휴게소 세우기](https://www.acmicpc.net/problem/1477) | 골드 4 |
 |7주차| 2024.04.29 | 백트래킹 | [스도쿠](https://www.acmicpc.net/problem/2580) | 골드 4 |
 |8주차| 2024.05.06| 위상정렬 | [선수과목](https://www.acmicpc.net/problem/14567) | 골드 5 |
-9주차
+|9주차| 2024.05.13| 최소 스패닝 트리 | [나만 안되는 연애 ](https://www.acmicpc.net/problem/14621) | 골드 2 |
 10주차
 11주차
 12주차
