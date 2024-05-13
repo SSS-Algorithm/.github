@@ -30,6 +30,6 @@
 |7주차| 2024.04.29 | 백트래킹 | [스도쿠](https://www.acmicpc.net/problem/2580) | 골드 4 |
 |8주차| 2024.05.06| 위상정렬 | [선수과목](https://www.acmicpc.net/problem/14567) | 골드 5 |
 |9주차| 2024.05.13| 최소 스패닝 트리 | [나만 안되는 연애 ](https://www.acmicpc.net/problem/14621) | 골드 3 |
-10주차
+|10주차| 2024.05.27| 구현 | [ZOAC](https://www.acmicpc.net/problem/16719) | 골드 5 |
 11주차
 12주차
